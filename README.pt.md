@@ -4,7 +4,7 @@
 
 ### Seja Bem-vindo 👋
 
-Olá eu me chamo André,sou um desenvolvedor de softwares (Primariamente Python Django) que adora contruir e participar em projetos interessantes, e também grande paixão por análise e visualização de dados
+Olá eu me chamo André,sou um desenvolvedor de softwares (Primariamente Python Django) que adora contruir e participar em projetos interessantes, e que também  tem grande paixão por análise e visualização de dados
 
 Originalmente graduado como Engenheiro Ambiental e Sanitário 🌱.
 

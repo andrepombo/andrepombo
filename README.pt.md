@@ -41,26 +41,6 @@ Sou originalmente formado como **Engenheiro Ambiental**, mas hoje atuo profissio
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-### 🔥 Streaks & Atividade
-<img src="https://streak-stats.demolab.com/?user=andrepombo&theme=transparent&hide_border=true" />
-
-### 📈 Estatísticas Gerais  
-<img src="https://github-readme-stats.vercel.app/api?username=andrepombo&show_icons=true&theme=transparent&hide_border=true" height="165">
-
-### 🧠 Principais Linguagens  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrepombo&layout=compact&theme=transparent&hide_border=true" height="165">
-
-### 📊 Gráfico de Contribuições  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrepombo&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 <a href="https://www.linkedin.com/in/andrepombo/" target="_blank">

@@ -11,10 +11,10 @@ Minha stack principal:
 
 - 🐍 **Backend:** Python, Django, REST APIs  
 - ⚛️ **Frontend:** React.js, Vite, TypeScript, Tailwind v4  
-- 🐳 **DevOps:** Docker, AWS, Nginx, CI/CD  
+- 🐳 **DevOps:** Docker, AWS, Nginx, CI/CD ,Traefik
 - 🚀 **Deploy:** Ambientes conteinerizados, SSL, domínios e infraestrutura  
 
-Sou originalmente formado como **Engenheiro Ambiental**, mas hoje atuo profissionalmente como desenvolvedor e DevOps.
+Sou originalmente formado como **Engenheiro Ambiental**, mas hoje atuo profissionalmente como desenvolvedor e construo aplicações completas — desde a arquitetura de backend e interfaces de frontend até implantações completas em produção.
 
 ---
 
@@ -22,21 +22,19 @@ Sou originalmente formado como **Engenheiro Ambiental**, mas hoje atuo profissio
 
 ### **Backend**
 - Python · Django · DRF  
-- PostgreSQL · Redis  
-- Celery · Tarefas assíncronas  
+- PostgreSQL 
 - Autenticação · Design de APIs
 
 ### **Frontend**
 - React.js · Vite  
 - TypeScript  
 - TailwindCSS v4  
-- Arquitetura baseada em componentes
 
 ### **DevOps & Deploy**
 - Docker & Docker Compose  
 - AWS (EC2, S3, Route53, IAM)  
-- Nginx · Certbot (SSL)  
-- GitHub Actions · CI/CD  
+- Nginx · Certbot (SSL) · Traefik 
+- GitHub Actions · CI/CD 
 - Monitoramento com Uptime Kuma  
 
 ---

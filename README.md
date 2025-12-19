@@ -7,7 +7,7 @@
 I'm a **Full Stack Developer** from Brazil, working with:
 - 🐍 **Backend:** Python, Django, REST APIs  
 - ⚛️ **Frontend:** React.js, Vite, TailwindCSS  
-- 🐳 **DevOps:** Docker, AWS (EC2, S3, IAM, Route53), Nginx  
+- 🐳 **DevOps:** Docker, AWS (EC2, S3, IAM, Route53), Nginx , Traefik
 - 🚀 **Deploy:** Full production pipelines, CI/CD, cloud infrastructure  
 
 Originally graduated as an **Environmental Engineer**, I transitioned into software development and now build complete applications—from backend architecture and frontend interfaces to full production deployments.
@@ -18,19 +18,18 @@ Originally graduated as an **Environmental Engineer**, I transitioned into softw
 
 ### **Backend**
 - Python · Django · DRF  
-- Celery · Redis · PostgreSQL  
+- Celery · PostgreSQL  
 - REST API design · Authentication · Background tasks
 
 ### **Frontend**
 - React.js · Vite  
 - TypeScript  
 - TailwindCSS v4  
-- Component-driven architecture
 
 ### **DevOps & Deployment**
 - Docker · Docker Compose  
-- AWS (EC2, S3, Route53, IAM, Lightsail)  
-- Nginx · SSL (Certbot)  
+- AWS (EC2, S3, Route53, IAM)  
+- Nginx · SSL (Certbot) · Traefik 
 - GitHub Actions · CI/CD  
 - Monitoring (Uptime Kuma)
 
